@@ -1,6 +1,6 @@
 # Salesforce SAML JIT Provisioning
 
-**Please Note:** I assume absolutely no responsibility for any of the code in this repository. Use at your own risk.
+**Please Note:** Use at your own risk.
 
 Sample Apex class implementing the `Auth.SamlJitHandler` interface for a SAML just-in-time (JIT) provisioning 
 to occur based on data in the SAML assertion. The class will handle both creating and updating users based on 
